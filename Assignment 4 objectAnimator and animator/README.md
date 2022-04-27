@@ -41,6 +41,8 @@ içerisinde  listener ile başlangıç ve bitiş değerlerini dinleyerek görün
   
 <img width="778" alt="valueAnimatorcode" src="https://user-images.githubusercontent.com/61115571/165643855-6e7a3ee7-271f-42d8-a5b4-f9d7c3af19f7.png">
   
+ 
+ 
  #### objectAnimator
   
   
